@@ -1,4 +1,4 @@
-// Operator dalam javascript seperti pada matematika pada umumnya
+// Operator dalam javascript seperti matematika pada umumnya
 // ---------------------------------------------------------------------------------------------------------------
 // untuk basic operatornya seperti penjumlahan (+), pengurangan (-) perkalian (*) dan pembagian (/) 
 // langsung pada contohnya:
